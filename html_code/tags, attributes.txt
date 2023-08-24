@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+<body>
+<h1>
+<p>
+<br>
+<a href="">   note : <a> full form is anchor tag
+<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+( img tag not have any end tag </img> )
+<hr>
+<br>
+<abbr>
+<address>
+<q>
+<blockquote>
+<cite>
+<bdo>
+<map>
+
+attribute : 
+
+img , alt ,height , width , lang , href , mailto , target
+color , background-color , text-decoration , style ( we can
+write style attribute in img tag and also width and height
+in style attribute) , usemap (use with imag map) , area ,
+shape , coord , background-image , background-repeat , 
+background-attachment , background-size ,
+
+
+comment:       <!-- statement -->
+
+
+dout:   relative url's , button (onclick)
+
+
+
+
+
